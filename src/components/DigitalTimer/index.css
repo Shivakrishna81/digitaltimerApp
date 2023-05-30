@@ -1,0 +1,57 @@
+/* Write your CSS here */
+.container {
+  background-image: linear-gradient(to left bottom, #cffcf1, #ffffff);
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  min-height: 100vh;
+  align-items: center;
+}
+h1 {
+  color: #0f172a;
+  font-size: 35px;
+}
+p {
+  color: #1e293b;
+  font-size: 24px;
+}
+.container2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.container3 {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/digital-timer-elapsed-bg.png');
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container4 {
+  background-color: #ffffff;
+}
+.cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 50px;
+}
+.btn-img {
+  height: 25px;
+  width: 25px;
+}
+button {
+  border-width: 0px;
+  background-color: transparent;
+}
+.idc {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.button {
+  background-color: #00d9f5;
+  color: black;
+  font-size: 15px;
+}
